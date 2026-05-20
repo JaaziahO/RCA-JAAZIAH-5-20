@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Turn On both switches and the LED will turn on
 
 ## How to test
 
-Explain how to use your project
+Flip switches 1 and 2 on and off to check if the LED will turn on
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED
